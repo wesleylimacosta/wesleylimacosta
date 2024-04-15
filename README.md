@@ -22,3 +22,5 @@
 
 
 "A persistência é muito importante. Você não deve desistir, a menos que seja forçado a desistir"
+
+"Qualquer tolo consegue escrever códigos que um computador possa entender. Bons programadores escrevem códigos que os seres humanos podem entender”
